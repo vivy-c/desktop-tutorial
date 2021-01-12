@@ -1,0 +1,4 @@
+ini adalah file pertama yang saya buat di github
+
+resolusi :
+saya ingin git dan github ini dapat saya kuasai
