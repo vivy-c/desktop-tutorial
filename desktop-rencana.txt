@@ -4,3 +4,4 @@ RENCANAKU DAN GITHUB
   *hingga selesai
   *cours ini = git hub wpu
 -pahami course ini
+-realisasikan apa yang sudah dipelajari
